@@ -36,18 +36,11 @@ Git • GitHub • REST APIs
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Tejsweeta7\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejsweeta7\&layout=compact\&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
 * 📧 Email: [tejsweeta16@gmail.com](mailto:tejsweeta16@gmail.com)
-* 💼 LinkedIn: (add link)
+* 💼 LinkedIn: https://www.linkedin.com/in/tejsweeta-76a0582bb/
 
 ---
 
