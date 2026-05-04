@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Tejsweeta</h1>
 
 <p align="center">
-🚀 Full Stack Developer | 🤖 AI/ML Enthusiast | 💻 DSA Learner  
+🤖 AI/ML & GenAI Enthusiast | 💻 Full Stack Developer | 🚀 Building Real-World AI Products  
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI/ML+Explorer;Building+Real+World+Projects;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI%2FML+Developer;GenAI+Explorer;Building+AI+Products;Future+Software+Engineer" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 CSE Student (2027 Batch)
-* 🎯 Goal: Crack top internships (20+ LPA)
-* 🔥 Building projects like **DevScope & AI Career Copilot**
-* 💡 Passionate about real-world problem solving
+* 🎓 B.Tech CSE (AI/ML) Student (2027)
+* 🤖 Focused on **Generative AI, NLP & real-world AI systems**
+* 🚀 Built and deployed projects like **AI Hiring Copilot & DevScope**
+* 💡 Passionate about solving real-world problems using AI
 
 ---
 
@@ -23,44 +23,51 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,react,nodejs,express,mongodb,git,github" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,mongodb,git,github" />
 
 </p>
+
+**AI/ML & GenAI:**
+- Machine Learning, Deep Learning, NLP  
+- Hugging Face Transformers, LLMs, Prompt Engineering  
+- scikit-learn, TensorFlow, spaCy  
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🤖 AI Hiring Copilot
+👉 AI-powered Resume Analyzer + ATS Scoring + Skill Gap Detection  
+👉 GenAI-based resume improvement using LLMs  
+👉 🔗 Live: https://ai-resume-copilot-297i.onrender.com  
+
+---
+
 ### 🔍 DevScope
+👉 GitHub Analyzer + Developer Score + Insights Platform  
+👉 Tech: React, Node.js, GitHub API  
 
-👉 GitHub Analyzer + Developer Score + Resume Generator
-👉 Tech: React, Node, GitHub API
+---
 
-### 🤖 AI Career Copilot
-
-👉 ATS Resume Analyzer + Skill Gap Finder
-👉 Tech: AI APIs, NLP
-
-### 🛍️ Clothing Customization Website
-
-👉 Full Stack E-commerce Platform
+### 🚦 Traffic Signal Optimization
+👉 Intelligent system using Fuzzy Logic for dynamic signal control  
+👉 Flask-based simulation  
 
 ---
 
 ## 🎯 Interests
 
-* 🌐 Scalable Web Applications
-* 🤖 AI-powered products
-* 🎨 UI/UX Design
-* ☁️ Cloud & System Design
+* 🤖 AI-powered products & GenAI applications  
+* 📊 Data-driven systems & intelligent automation  
+* 🌐 Scalable backend systems  
 
 ---
 
 ## 📚 Currently Learning
 
-* 📈 Advanced DSA (Striver Sheet)
-* ⚡ MERN Stack Development
-* 🤖 AI integration in real-world apps
+* ⚡ Advanced DSA (Striver Sheet)
+* 🤖 Advanced GenAI & LLM applications  
+* ☁️ Deployment & scalable AI systems  
 
 ---
 
@@ -69,14 +76,6 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Tejsweeta7&show_icons=true&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejsweeta7&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/Tejsweeta7/Tejsweeta7/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -103,6 +102,6 @@
 
 ## 💡 Quote
 
-> “Consistency + Projects + DSA = Dream Placement 🚀”
+> “Build real AI projects, stay consistent, and let your work speak louder than words 🚀”
 
 
